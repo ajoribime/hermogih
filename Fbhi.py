@@ -1,4 +1,4 @@
- ################################################ 
+ ###################################################################
  ​                        Import Module 
  ​import​ ​json​ , ​sys​ , ​hashlib​ , ​os​ , ​time​ , ​marshal​, ​getpass 
  ​################################################################### 
@@ -376,4 +376,4 @@
  ​        ​except​ ​KeyboardInterrupt​: 
  ​                ​print​ ​'​\r​[!] Stopped' 
  ​                ​bot​() 
- ​def​ ​unfriend​(​posts​):
+ ​def​ ​unfriend​(​posts​):mfacebook.com
